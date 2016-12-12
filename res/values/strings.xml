@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World!</string>
+    <string name="app_name">Jedi</string>
+    <string name="no_login">No estas loguejat, prem el botó</string>
+
+    <string name="text_notificacions">Notificacions</string>        
+    <string name="text_notificacions_barra">Notificacions a la barra</string>
+    <string name="text_notificacions_pantalla">Notificacions en pantalla</string>
+    <string name="sortir">Segur que vols sortir</string>
+    <string name="si">I tant!</string>
+    <string name="no">No, no!</string>
+    <string name="opcio_reset">Resetejar puntuacions</string>
+    <string name="opcio_logout">Logout</string>
+    <string name="opcio_restart">Restart</string>
+    <string name="text_obrir_navegador">Navegador</string>
+    <string name="text_obrir_trucar">Trucar</string>        
+        
+</resources>

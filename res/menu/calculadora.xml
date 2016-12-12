@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:title="@+string/text_notificacions">
+		<menu xmlns:android="http://schemas.android.com/apk/res/android">
+			<group android:checkableBehavior="single">
+				<item android:id="@+id/notificacions_pantalla" android:title="@string/text_notificacions_pantalla" />
+				<item android:id="@+id/notificacions_barra" android:title="@string/text_notificacions_barra" />
+			</group>
+		</menu>
+	</item>
+	<item android:id="@+id/obrir_navegador" android:title="@string/text_obrir_navegador" />
+	<item android:id="@+id/obrir_trucar" android:title="@string/text_obrir_trucar" />
+	<item android:id="@+id/opcio_logout" android:title="@string/opcio_logout" />
+</menu>
